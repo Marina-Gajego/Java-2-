@@ -38,7 +38,7 @@ Configure o JDK (Java Development Kit) caso necessário.
 Execute os arquivos .java para ver o funcionamento dos exemplos e projetos.
 
 🌟 Certificação e Conclusão
-O curso foi concluído com 100% de progresso, incluindo a transcrição e avaliação prática. A certificação está disponível na plataforma da Alura.
+O curso foi concluído com 100% de progresso, incluindo a transcrição e avaliação prática. A certificação está disponível na plataforma da Alura ou no meu perfil do linkedin.
 
 🛠 Autor:
 Seu Nome
