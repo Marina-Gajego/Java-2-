@@ -41,7 +41,7 @@ Execute os arquivos .java para ver o funcionamento dos exemplos e projetos.
 O curso foi concluído com 100% de progresso, incluindo a transcrição e avaliação prática. A certificação está disponível na plataforma da Alura ou no meu perfil do linkedin.
 
 🛠 Autor:
-Seu Nome
+Marina
 Analista de Testes | Estudante de Java
 
 💡 "Codar é transformar ideias em realidade."
