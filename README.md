@@ -32,7 +32,7 @@ O curso foca em introduzir e aprofundar conceitos da programação orientada a o
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-orientacao-objetos.git
+   git clone https://github.com/Java-aplicando-a-Orientacao-Objetos.git
 Abra o projeto no IntelliJ IDEA.
 Configure o JDK (Java Development Kit) caso necessário.
 Execute os arquivos .java para ver o funcionamento dos exemplos e projetos.
